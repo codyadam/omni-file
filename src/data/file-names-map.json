@@ -53,6 +53,7 @@
   ".spacemacs": "Emacs Lisp",
   ".viper": "Emacs Lisp",
   "Cask": "Emacs Lisp",
+  "Eask": "Emacs Lisp",
   "Project.ede": "Emacs Lisp",
   "_emacs": "Emacs Lisp",
   "abbrev_defs": "Emacs Lisp",
