@@ -3487,6 +3487,20 @@
       "document"
     ]
   },
+  "FlatBuffers": {
+    "type": "data",
+    "color": "#ed284a",
+    "extensions": [
+      ".fbs"
+    ],
+    "tm_scope": "source.flatbuffers",
+    "ace_mode": "text",
+    "language_id": 577640576,
+    "name": "FlatBuffers",
+    "icons": [
+      "document"
+    ]
+  },
   "Flix": {
     "type": "programming",
     "color": "#d44a45",
@@ -6659,6 +6673,20 @@
     "name": "Liquid",
     "icons": [
       "liquid"
+    ]
+  },
+  "Liquidsoap": {
+    "type": "programming",
+    "color": "#990066",
+    "extensions": [
+      ".liq"
+    ],
+    "tm_scope": "source.liquidsoap",
+    "ace_mode": "text",
+    "language_id": 614641732,
+    "name": "Liquidsoap",
+    "icons": [
+      "document"
     ]
   },
   "Literate Agda": {

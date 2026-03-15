@@ -2890,6 +2890,17 @@
     "language_id": 112,
     "name": "Filterscript"
   },
+  "FlatBuffers": {
+    "type": "data",
+    "color": "#ed284a",
+    "extensions": [
+      ".fbs"
+    ],
+    "tm_scope": "source.flatbuffers",
+    "ace_mode": "text",
+    "language_id": 577640576,
+    "name": "FlatBuffers"
+  },
   "Flix": {
     "type": "programming",
     "color": "#d44a45",
@@ -5511,6 +5522,17 @@
     "ace_mode": "liquid",
     "language_id": 204,
     "name": "Liquid"
+  },
+  "Liquidsoap": {
+    "type": "programming",
+    "color": "#990066",
+    "extensions": [
+      ".liq"
+    ],
+    "tm_scope": "source.liquidsoap",
+    "ace_mode": "text",
+    "language_id": 614641732,
+    "name": "Liquidsoap"
   },
   "Literate Agda": {
     "type": "programming",
