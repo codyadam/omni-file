@@ -319,6 +319,8 @@
   "Cargo.toml.orig": "TOML",
   "Gopkg.lock": "TOML",
   "Pipfile": "TOML",
+  "mise.local.lock": "TOML",
+  "mise.lock": "TOML",
   "pdm.lock": "TOML",
   "poetry.lock": "TOML",
   "uv.lock": "TOML",
