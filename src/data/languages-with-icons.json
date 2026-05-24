@@ -5114,6 +5114,24 @@
       "document"
     ]
   },
+  "IL Assembly": {
+    "type": "programming",
+    "color": "#512BD4",
+    "extensions": [
+      ".il"
+    ],
+    "tm_scope": "source.il",
+    "ace_mode": "text",
+    "aliases": [
+      "ilasm",
+      "msil"
+    ],
+    "language_id": 592065806,
+    "name": "IL Assembly",
+    "icons": [
+      "document"
+    ]
+  },
   "INI": {
     "type": "data",
     "color": "#d1dbe0",
@@ -9897,6 +9915,20 @@
     "icons": [
       "document",
       "visualstudio"
+    ]
+  },
+  "Quint": {
+    "type": "programming",
+    "color": "#9d6ce5",
+    "extensions": [
+      ".qnt"
+    ],
+    "tm_scope": "source.quint",
+    "ace_mode": "text",
+    "language_id": 562056483,
+    "name": "Quint",
+    "icons": [
+      "document"
     ]
   },
   "R": {
