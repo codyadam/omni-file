@@ -99,6 +99,7 @@
   ".dockerignore": "Ignore List",
   ".easignore": "Ignore List",
   ".eleventyignore": "Ignore List",
+  ".eslint-ignore": "Ignore List",
   ".eslintignore": "Ignore List",
   ".gitignore": "Ignore List",
   ".ignore": "Ignore List",
@@ -172,6 +173,7 @@
   "Makefile.frag": "Makefile",
   "Makefile.in": "Makefile",
   "Makefile.inc": "Makefile",
+  "Makefile.pc": "Makefile",
   "Makefile.wat": "Makefile",
   "makefile": "Makefile",
   "makefile.sco": "Makefile",
@@ -223,6 +225,7 @@
   "inputrc": "Readline Config",
   "language-subtag-registry.txt": "Record Jar",
   "_redirects": "Redirect Rules",
+  "robots.txt": "Robots Exclusion Rules",
   "eqnrc": "Roff",
   "mmn": "Roff",
   "mmt": "Roff",
@@ -340,6 +343,7 @@
   "README.me": "Text",
   "README.mysql": "Text",
   "README.nss": "Text",
+  "README.pc": "Text",
   "click.me": "Text",
   "delete.me": "Text",
   "keep.me": "Text",
@@ -398,6 +402,5 @@
   "_dircolors": "dircolors",
   "dir_colors": "dircolors",
   ".nanorc": "nanorc",
-  "nanorc": "nanorc",
-  "robots.txt": "robots.txt"
+  "nanorc": "nanorc"
 }
