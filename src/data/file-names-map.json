@@ -78,6 +78,8 @@
   "go.work": "Go Workspace",
   "project.godot": "Godot Resource",
   "Jenkinsfile": "Groovy",
+  "gtkrc": "GtkRC",
+  "gtkrc-2.0": "GtkRC",
   "haproxy.cfg": "HAProxy",
   ".scalafix.conf": "HOCON",
   ".scalafmt.conf": "HOCON",

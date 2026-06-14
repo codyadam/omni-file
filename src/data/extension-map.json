@@ -461,6 +461,7 @@
   "gtpl": "Groovy",
   "gvy": "Groovy",
   "gsp": "Groovy Server Pages",
+  "gtkrc": "GtkRC",
   "cfg": "HAProxy",
   "hcl": "HCL",
   "nomad": "HCL",
