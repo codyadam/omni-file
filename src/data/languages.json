@@ -905,6 +905,20 @@
     "language_id": 35,
     "name": "BlitzMax"
   },
+  "Blueprint": {
+    "type": "markup",
+    "color": "#3584E4",
+    "extensions": [
+      ".blp"
+    ],
+    "aliases": [
+      "blp"
+    ],
+    "tm_scope": "source.blueprint",
+    "ace_mode": "text",
+    "language_id": 765545512,
+    "name": "Blueprint"
+  },
   "Bluespec": {
     "type": "programming",
     "color": "#12223c",
@@ -1061,7 +1075,7 @@
     "codemirror_mode": "clike",
     "codemirror_mime_type": "text/x-csharp",
     "tm_scope": "source.cs",
-    "color": "#178600",
+    "color": "#7355dd",
     "aliases": [
       "csharp",
       "cake",
@@ -3457,7 +3471,9 @@
     ],
     "filenames": [
       ".gitconfig",
-      ".gitmodules"
+      ".gitmodules",
+      ".tgitconfig",
+      "config.worktree"
     ],
     "ace_mode": "ini",
     "codemirror_mode": "properties",
@@ -4382,6 +4398,7 @@
       ".atomignore",
       ".babelignore",
       ".bzrignore",
+      ".ckignore",
       ".coffeelintignore",
       ".cvsignore",
       ".dockerignore",
@@ -4395,6 +4412,7 @@
       ".nodemonignore",
       ".npmignore",
       ".prettierignore",
+      ".rgignore",
       ".stylelintignore",
       ".vercelignore",
       ".vscodeignore",
