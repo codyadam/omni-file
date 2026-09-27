@@ -1014,6 +1014,22 @@
       "document"
     ]
   },
+  "Bend": {
+    "type": "programming",
+    "aliases": [
+      "bend2"
+    ],
+    "extensions": [
+      ".bend"
+    ],
+    "tm_scope": "source.bend",
+    "ace_mode": "text",
+    "language_id": 571794812,
+    "name": "Bend",
+    "icons": [
+      "document"
+    ]
+  },
   "Berry": {
     "type": "programming",
     "extensions": [
@@ -3233,7 +3249,7 @@
   },
   "Elixir": {
     "type": "programming",
-    "color": "#6e4a7e",
+    "color": "#8847B9",
     "extensions": [
       ".ex",
       ".exs"
@@ -7918,6 +7934,10 @@
     "color": "#b92381",
     "extensions": [
       ".mbt"
+    ],
+    "filenames": [
+      "moon.mod",
+      "moon.pkg"
     ],
     "tm_scope": "source.moonbit",
     "ace_mode": "text",

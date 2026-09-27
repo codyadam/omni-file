@@ -197,6 +197,8 @@
   "meson_options.txt": "Meson",
   "descrip.mmk": "Module Management System",
   "descrip.mms": "Module Management System",
+  "moon.mod": "MoonBit",
+  "moon.pkg": "MoonBit",
   ".npmrc": "NPM Config",
   "nextflow.config": "Nextflow",
   "nginx.conf": "Nginx",
